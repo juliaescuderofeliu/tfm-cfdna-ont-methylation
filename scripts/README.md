@@ -1,4 +1,3 @@
-Scripts used for cfDNA methylation analysis in the TFM.
 # Scripts overview and order of execution
 
 This directory contains the scripts used for cfDNA methylation analysis in the Master’s Thesis.
