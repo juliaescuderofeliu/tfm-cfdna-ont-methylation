@@ -2,7 +2,7 @@
 
 This repository contains the bioinformatic scripts used in the Master’s Thesis:
 
-**Oxford Nanopore cfDNA methylation in metastatic colorectal cancer and integration with precomputed CNAs**
+**Methylation analysis of cfDNA in metastatic colorectal cancer (CRC) using Oxford Nanopore low-pass WGS**
 
 ## Overview
 
